@@ -17,5 +17,6 @@ Follow the steps below to set up your environment and start using the code in th
    Place the `kaggle.json` file directly in the project folder you created.
 
 ## 2. Run the Code
-The repo also contains a zip file so extrace it and use the file with the folder
+The repo also contains a zip file so extrace it and use the file with the folder.
+
 With the `kaggle.json` file in place, you’re ready to execute the code in this repository. Ensure that you have installed all the required dependencies before running any scripts.
